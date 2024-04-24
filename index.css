@@ -7,12 +7,12 @@ body {
 }
 
 .container {
-    position:relative;
+    
     background: lavenderblush;
     max-width: 80%;
     
     margin: auto;
-    mrgin-top:50px;
+    mrgin-top:40px;
     border: 3px solid black;
     border-radius: 10px;
 }
