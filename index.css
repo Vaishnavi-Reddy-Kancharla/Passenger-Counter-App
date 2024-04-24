@@ -7,6 +7,7 @@ body {
 }
 
 .container {
+    padding-top:10px;
     background: lavender;
     max-width: 80%;
     margin: auto;
